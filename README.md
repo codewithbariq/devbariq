@@ -1,13 +1,13 @@
-# Hi there! 👋 I'm bariq
+# Hi there! 👋 I'm Bariq
 
-🎓 I'm a BCA student and an aspiring **Software Developer** who’s passionate about learning, building, and exploring new technologies.
+🎓 I’m a **BCA student** and an aspiring **Software Developer** passionate about learning, building, and exploring new technologies.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Python**, **Web Development**, and **Git/GitHub**
-- 👨‍💻 I’m working on building small projects to sharpen my skills
+- 🌱 Currently learning **Python**, **Web Development**, and **Git/GitHub**
+- 👨‍💻 Building small projects to sharpen my skills
 - 🤖 Interested in **AI**, **App Development**, and **Open Source**
-- 📫 You can reach me on [LinkedIn](www.linkedin.com/in/devbariq)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/codewithbariq)
 
 ## 🛠️ Languages & Tools
 
@@ -19,9 +19,8 @@
 
 ## 📈 GitHub Stats
 
-![devbariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbariq&show_icons=true&theme=radical)
+![Bariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbariq&show_icons=true&theme=radical)
 
 ---
 
-🔗 Let’s connect and grow together in this amazing dev journey!
-
+💡 *Let’s connect and grow together on this amazing dev journey!*
